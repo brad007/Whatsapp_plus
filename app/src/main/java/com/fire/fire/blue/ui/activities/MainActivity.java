@@ -1,4 +1,4 @@
-package com.fire.fire.whatsapp.ui.activities;
+package com.fire.fire.blue.ui.activities;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -28,10 +28,10 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.fire.fire.whatsapp.BuildConfig;
-import com.fire.fire.whatsapp.R;
-import com.fire.fire.whatsapp.Utils.Utils;
-import com.fire.fire.whatsapp.adapters.ContactAdapter;
+import com.fire.fire.blue.BuildConfig;
+import com.fire.fire.blue.R;
+import com.fire.fire.blue.Utils.Utils;
+import com.fire.fire.blue.adapters.ContactAdapter;
 
 public class MainActivity extends AppCompatActivity {
 

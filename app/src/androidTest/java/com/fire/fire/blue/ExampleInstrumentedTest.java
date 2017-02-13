@@ -1,4 +1,4 @@
-package com.fire.fire.whatsapp;
+package com.fire.fire.blue;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

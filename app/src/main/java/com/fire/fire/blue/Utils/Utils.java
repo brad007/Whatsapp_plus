@@ -1,4 +1,4 @@
-package com.fire.fire.whatsapp.Utils;
+package com.fire.fire.blue.Utils;
 
 import android.content.Context;
 import android.support.annotation.StringRes;

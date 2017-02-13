@@ -1,4 +1,4 @@
-package com.fire.fire.whatsapp;
+package com.fire.fire.blue;
 
 import org.junit.Test;
 

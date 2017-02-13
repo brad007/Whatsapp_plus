@@ -1,4 +1,4 @@
-package com.fire.fire.whatsapp.adapters;
+package com.fire.fire.blue.adapters;
 
 import android.content.Context;
 import android.database.Cursor;

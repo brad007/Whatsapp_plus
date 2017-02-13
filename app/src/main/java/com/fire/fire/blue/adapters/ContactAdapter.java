@@ -1,4 +1,4 @@
-package com.fire.fire.whatsapp.adapters;
+package com.fire.fire.blue.adapters;
 
 import android.content.ContentUris;
 import android.content.Context;
@@ -13,7 +13,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.fire.fire.whatsapp.R;
+import com.fire.fire.blue.R;
 
 /**
  * Created by brad on 2017/02/12.

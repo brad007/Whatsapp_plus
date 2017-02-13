@@ -12,5 +12,5 @@
         android:scrollbarSize="4dp"
         android:scrollbarThumbVertical="@drawable/scrollbar"
         android:scrollbars="vertical"
-        tools:context="com.fire.fire.whatsapp.ui.activities.MainActivity$PlaceholderFragment"/>
+        tools:context="com.fire.fire.blue.ui.activities.MainActivity$PlaceholderFragment"/>
 </FrameLayout>
