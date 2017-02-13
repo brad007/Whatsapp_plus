@@ -19,11 +19,6 @@
         app:showAsAction="never"/>
 
     <item
-        android:id="@+id/action_whatsapp_web"
-        android:title="@string/menu_title_whatsapp_web"
-        app:showAsAction="never"/>
-
-    <item
         android:id="@+id/action_starred_messages"
         android:title="@string/menu_title_starred_messages"
         app:showAsAction="never"/>

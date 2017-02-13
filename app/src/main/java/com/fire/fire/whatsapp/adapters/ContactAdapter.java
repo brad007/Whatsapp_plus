@@ -40,6 +40,7 @@ public class ContactAdapter extends CursorRecyclerViewAdapter<ContactAdapter.Con
                         .DISPLAY_NAME
         ));
 
+        viewHolder.setUsername(username);
         long contactId = getItemId(cursor.getPosition());
         long photoId = cursor.getLong(cursor.getColumnIndex(
                 ContactsContract.Data.PHOTO_ID

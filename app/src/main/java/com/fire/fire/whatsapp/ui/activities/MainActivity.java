@@ -107,9 +107,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_new_broadcast:
                 Utils.showToast(MainActivity.this, R.string.menu_title_new_broadcast);
                 return true;
-            case R.id.action_whatsapp_web:
-                Utils.showToast(MainActivity.this, R.string.menu_title_whatsapp_web);
-                return true;
             case R.id.action_starred_messages:
                 Utils.showToast(MainActivity.this, R.string.menu_title_starred_messages);
                 return true;

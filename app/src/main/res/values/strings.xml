@@ -1,10 +1,9 @@
 <resources>
-    <string name="app_name">Whatsapp+</string>
+    <string name="app_name">BLÜE</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="menu_title_new_group">New group</string>
     <string name="menu_title_new_broadcast">New broadcast</string>
-    <string name="menu_title_whatsapp_web">Whatsapp Web</string>
     <string name="menu_title_starred_messages">Starred messages</string>
     <string name="menu_title_status">Status</string>
 </resources>
